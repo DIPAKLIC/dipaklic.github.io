@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eye Donation Drive</title>
+<style>
+  body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    min-height: 150vh;
+  }
+
+  .poster {
+    background: linear-gradient(135deg, #6ec1e4 0%, #6495ed 100%);
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    color: white;
+    padding: 20px;
+    width: 600px;
+    max-width: 90%;
+  }
+
+  .poster h1, .poster h2 {
+    text-align: center;
+  }
+
+  .highlight {
+    color: #ffeb3b;
+  }
+
+  .info-box {
+    background-color: rgba(255,255,255,0.2);
+    border-left: 4px solid #ffeb3b;
+    margin: 20px 0;
+    padding: 10px;
+  }
+
+  .button {
+    background-color: #ffeb3b;
+    border: none;
+    border-radius: 5px;
+    color: #333;
+    cursor: pointer;
+    padding: 10px 20px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="poster">
+  <h1>GIVE THE GIFT OF SIGHT!</h1>
+  <h2>JOIN OUR EYE DONATION DRIVE TODAY</h2>
+
+  <p>As the Director General of Health Services, we invite you to become a beacon of hope for those in darkness. Your act of kindness can light up lives.</p>
+
+  <div class="info-box">
+    <strong>WHEN:</strong> 8 AM-7 PM, 15th Marth 2024<br>
+    <strong>WHERE: </strong> Eye Care Foundation
+123 MG Road, Kolkata,
+West Bengal, 700026
+India
+  </div>
+
+  <h3>WHY DONATE EYES?</h3>
+  <ul>
+    <li><strong>Transform Lives:</strong> Your donation can give someone the precious gift of sight.</li>
+    <li><strong>Leave a Legacy:</strong> Your generosity leaves a lasting impact on the world.</li>
+    <li><strong>It's Simple & Safe:</strong> The donation process is safe, and every donor is treated with the utmost respect.</li>
+  </ul>
+
+  <h3>HOW TO JOIN?</h3>
+  <p>Visit <span class="highlight">https://hdev.me/eye-donation</span> or Call us at <span class="highlight">+918076865437</span><br>
+  Sign up for the Eye Donation Pledge<br>
+  Learn more about how you can make a difference</p>
+
+  <p class="footer">“Your eyes can live beyond your time, lighting up lives through the gift of sight.”<br>
+  Together, let's envision a future where everyone sees the beauty of the world.</p>
+
+  <div class="footer"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;" viewBox="0 0 65000 81250" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd" width="120px" height="100px"><defs><style type="text/css">
+   
+    .fil0 {fill:black}
+   
+  </style></defs><g><path class="fil0" d="M35769 45355l16894 -3335c2628,-584 4289,-216 4599,1259l-18937 3769 -2556 -1693zm4794 -37879c8865,0 16648,5742 21066,14392 358,701 358,1542 0,2242 -4418,8650 -12201,14392 -21066,14392 -8865,0 -16648,-5742 -21066,-14392 -358,-700 -358,-1541 0,-2242 4418,-8650 12201,-14392 21066,-14392zm0 5727c5404,0 9786,4381 9786,9786 0,5405 -4382,9787 -9786,9787 -5405,0 -9787,-4382 -9787,-9787 0,-5405 4382,-9786 9787,-9786zm0 5083c2598,0 4703,2105 4703,4703 0,2598 -2105,4704 -4703,4704 -2598,0 -4704,-2106 -4704,-4704 0,-519 85,-1019 240,-1487 364,480 940,791 1589,791 1100,0 1991,-892 1991,-1992 0,-696 -358,-1309 -900,-1665 551,-226 1153,-350 1784,-350zm0 -1949c3674,0 6651,2978 6651,6652 0,3674 -2977,6652 -6651,6652 -3674,0 -6652,-2978 -6652,-6652 0,-3674 2978,-6652 6652,-6652zm0 -4737c7768,0 14613,3992 18643,10057 519,781 519,1883 0,2664 -4030,6066 -10875,10058 -18643,10058 -7768,0 -14614,-3992 -18643,-10058 -519,-781 -519,-1883 0,-2664 4029,-6065 10875,-10057 18643,-10057zm-31020 25602c3900,-2529 8195,-2366 11750,-711 2322,1081 4080,3249 6244,4554l5347 3001c2800,1548 1381,5495 -1204,4915l-5562 -723c-682,-88 -1253,-304 -1811,-706l-6163 -4450c-586,-471 -1295,463 -611,919l6241 4703c555,418 1508,775 2197,870l5548 765c1984,277 3661,-664 4190,-2966l1924 1140 21870 -4537c4734,-872 6479,4897 1524,6096l-23332 7423c-3606,1147 -7077,1502 -10627,194l-11497 -4235c-1021,-376 -2072,-321 -3001,248l-5689 3483c-599,366 -1288,319 -1701,-521l-4920 -11445c-543,-1412 -187,-2033 617,-2701 2411,-2001 7676,-4673 8666,-5316z"/></g><text x="0" y="65015" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by popcornarts</text><text x="0" y="65020" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text></svg><br>Director General of Health Services</div>
+</div>
+
+</body>
+</html>
